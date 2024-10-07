@@ -1,0 +1,59 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+/static
+/uploads
+*.pot
+*.pyc
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Environment variables
+.env
+.env.dev
+*.env
+
+# Coverage reports
+coverage.xml
+*.cover
+*.coverage
+.cache
+nosetests.xml
+coverage_html_report/
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Others
+*.pot
+*.mo

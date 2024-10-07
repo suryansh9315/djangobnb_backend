@@ -1,0 +1,12 @@
+Django==4.2.0
+dj-rest-auth
+django-allauth
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+pillow
+channels
+daphne
+requests
+
